@@ -2,8 +2,14 @@
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 17rem;
+    font-size: 1rem;
 }
 body{
-    background-color: aqua;
+    background-color: aquamarine;
+}
+nav{
+    background-color:  yellow;
+}
+div.container-fluid>div.row>div.col>div.card{
+    background-color: blueviolet;
 }
