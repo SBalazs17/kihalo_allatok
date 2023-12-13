@@ -13,3 +13,9 @@ nav{
 div.container-fluid>div.row>div.col>div.card{
     background-color: blueviolet;
 }
+div.container-fluid>div.row>div.col>div.card>div.card-body>p{
+    font-size: 1.3em;
+}
+div.container-fluid>div.row>div.col>div.card>div.card-body>h5{
+    font-size: 1.7em;
+}
